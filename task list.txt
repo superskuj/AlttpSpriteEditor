@@ -1,0 +1,24 @@
+-Make sprite list editable
+possibly importable from HM config file, or make a custom config file
+
+-add more prize packs
+15 would be max as it uses 1 nybble and 0 is no pack
+
+-error throws when clicking empty space in listbox
+tries to deselect the selected item, and no selected value is not allowed
+
+
+========
+Changelist
+========
+
+-------------------------
+v0.12
+-------------------------
+-Added Compatibility for headered and headerless ROMs
+
+-------------------------
+v0.11  2016/11/04
+-------------------------
+-Added unsaved changes warning
+-tweaked invalid text box input exception handling
